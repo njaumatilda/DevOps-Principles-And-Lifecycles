@@ -9,7 +9,7 @@ It is a culture that aims to close the gap between development and operations by
 - **Customer-Centric Development**  
 This principle seeks to place customers at the heart of software development, hence ensuring organizations invest in strategies that will receive maximum customer delight.
 
-- **End-to-End Responsibility**  
+- **Shared End-to-End Responsibility**  
 Since DevOps removes the silos between teams, this principle ensures that the success or failure of the entire development process is on the whole team, as opposed to the traditional way where only one team would be held responsible for any inconsistencies because teams were separate. 
 
 - **Collaboration**  
