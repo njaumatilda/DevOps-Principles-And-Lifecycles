@@ -6,7 +6,7 @@ It is a culture that aims to close the gap between development and operations by
 
 ### Core Principles
 
-- **Customer-centric Development**
+- **Customer-centric Development**  
 This principle seeks to place customers at the heart of software development, hence ensuring organizations invest in strategies that will receive maximum customer delight.
 
 - **End-to-End Responsibility**  
