@@ -29,7 +29,7 @@ DevOps Lifecycle is the contionuous, iterative process of software development(h
 
 
 - **Planning**  
-As the first SDLC phase, DevOps teams translate business needs and user feedback into clear, prioritized, time‑bound work plans and product management workflows that guide development and operations activities in subsequent phases. This phase clarifies the vision, scope and roadmap for a software release or system build so that everyone understands what they’re building, why it matters and how they will measure success.
+As the first SDLC phase, business needs and user feedback are translated into clear, prioritized, time‑bound work plans and product management workflows that guide development and operations activities in subsequent phases. This phase clarifies the vision, scope and roadmap for a software release or system build so that everyone understands what they’re building, why it matters and how they will measure success.
 
 - **Development**  
 During this phase, developers turn the planned infrastructure and software requirements into working source code with an eye toward quality assurance and future operations.
